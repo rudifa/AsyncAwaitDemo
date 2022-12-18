@@ -16,6 +16,8 @@
 		9D5BAA01294F16EA0096BD41 /* AsyncAwaitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D5BAA00294F16EA0096BD41 /* AsyncAwaitDemoTests.swift */; };
 		9D5BAA0B294F16EA0096BD41 /* AsyncAwaitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D5BAA0A294F16EA0096BD41 /* AsyncAwaitDemoUITests.swift */; };
 		9D5BAA0D294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D5BAA0C294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift */; };
+		9DC2BD14294F8057000E8794 /* chatGPT-QA-session.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */; };
+		9DC2BD16294F8082000E8794 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DC2BD15294F8081000E8794 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		9D5BAA06294F16EA0096BD41 /* AsyncAwaitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AsyncAwaitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D5BAA0A294F16EA0096BD41 /* AsyncAwaitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitDemoUITests.swift; sourceTree = "<group>"; };
 		9D5BAA0C294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "chatGPT-QA-session.md"; sourceTree = "<group>"; };
+		9DC2BD15294F8081000E8794 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		9D5BA9DD294F16C70096BD41 = {
 			isa = PBXGroup;
 			children = (
+				9DC2BD15294F8081000E8794 /* README.md */,
+				9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */,
 				9D5BA9E8294F16C70096BD41 /* AsyncAwaitDemo */,
 				9D5BA9FF294F16EA0096BD41 /* AsyncAwaitDemoTests */,
 				9D5BAA09294F16EA0096BD41 /* AsyncAwaitDemoUITests */,
@@ -233,7 +239,9 @@
 			files = (
 				9D5BA9F6294F16EA0096BD41 /* LaunchScreen.storyboard in Resources */,
 				9D5BA9F3294F16EA0096BD41 /* Assets.xcassets in Resources */,
+				9DC2BD16294F8082000E8794 /* README.md in Resources */,
 				9D5BA9F1294F16C70096BD41 /* Main.storyboard in Resources */,
+				9DC2BD14294F8057000E8794 /* chatGPT-QA-session.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
