@@ -29,3 +29,7 @@ and the generated code works.
 In between, I tried to get a modern (as of 2022) swift solution using async/await and throw/catch, but it never got there. It looks as if it was trained on material that is about a year old.
 
 Anyway, this is impressive, from a truly general-purpose AI system.
+
+Here is the app, in a simulator.
+
+![Screenshot](Screenshot 2022-12-18 at 18.33.58.png)

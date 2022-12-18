@@ -18,6 +18,7 @@
 		9D5BAA0D294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D5BAA0C294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift */; };
 		9DC2BD14294F8057000E8794 /* chatGPT-QA-session.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */; };
 		9DC2BD16294F8082000E8794 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DC2BD15294F8081000E8794 /* README.md */; };
+		9DC2BD18294F86D0000E8794 /* Screenshot 2022-12-18 at 18.33.58.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DC2BD17294F86CF000E8794 /* Screenshot 2022-12-18 at 18.33.58.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		9D5BAA0C294F16EA0096BD41 /* AsyncAwaitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "chatGPT-QA-session.md"; sourceTree = "<group>"; };
 		9DC2BD15294F8081000E8794 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9DC2BD17294F86CF000E8794 /* Screenshot 2022-12-18 at 18.33.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2022-12-18 at 18.33.58.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		9D5BA9DD294F16C70096BD41 = {
 			isa = PBXGroup;
 			children = (
+				9DC2BD17294F86CF000E8794 /* Screenshot 2022-12-18 at 18.33.58.png */,
 				9DC2BD15294F8081000E8794 /* README.md */,
 				9DC2BD13294F8057000E8794 /* chatGPT-QA-session.md */,
 				9D5BA9E8294F16C70096BD41 /* AsyncAwaitDemo */,
@@ -242,6 +245,7 @@
 				9DC2BD16294F8082000E8794 /* README.md in Resources */,
 				9D5BA9F1294F16C70096BD41 /* Main.storyboard in Resources */,
 				9DC2BD14294F8057000E8794 /* chatGPT-QA-session.md in Resources */,
+				9DC2BD18294F86D0000E8794 /* Screenshot 2022-12-18 at 18.33.58.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
