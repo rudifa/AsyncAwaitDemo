@@ -32,4 +32,4 @@ Anyway, this is impressive, from a truly general-purpose AI system.
 
 Here is the app, in a simulator.
 
-![Screenshot](Screenshot 2022-12-18 at 18.33.58.png)
+<img src="Screenshot 2022-12-18 at 18.33.58.png"/>
